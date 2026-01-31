@@ -1,0 +1,5 @@
+@EndUserText.label: 'Approver Service Definition'
+define service ZSRD_APPROVER_M_RAP {
+  expose ZC_APPROVER_M_RAP;
+  expose ZC_BOOK_APPR_M_RAP;
+}

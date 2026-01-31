@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service def for connection details'
+define service ZSD_RAP_CONN {
+  expose ZI_RAP_CONN;
+  expose ZI_RAP_FLTECH;
+  expose ZI_RAP_CARRIER;
+}

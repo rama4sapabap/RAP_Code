@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service definition'
+define service ZSRD_TRAVEL_M_RAP {
+  expose ZC_TRAVEL_M_RAP;
+  expose ZC_BOOK_M_RAP;
+  expose ZC_BOOKSUPPL_M_RAP;
+}
